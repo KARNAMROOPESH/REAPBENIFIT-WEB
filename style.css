@@ -1,0 +1,39 @@
+h1{color:black}
+
+* {
+ background: white;
+ border-width: 1000;
+  margin:100;
+  padding:100;
+}
+p,h2,h3,h1,b{
+    text-align: center;
+    color:#8CC247;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .viedio{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .social {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 100px;
+}
+.grid {
+  display:flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  
+}
